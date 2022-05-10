@@ -1,0 +1,39 @@
+# 
+# Translators:
+# Stefanos Doulfis2 <stefanos+8@transifex.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 14:38-0600\n"
+"PO-Revision-Date: 2022-05-10 10:17+0000\n"
+"Last-Translator: Stefanos Doulfis2 <stefanos+8@transifex.com>, 2022\n"
+"Language-Team: Greek (https://example.com/transifex/teams/5/el/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Mime-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: @lingui/cli\n"
+
+msgid "foo"
+msgstr ""
+
+msgid "foo2"
+msgstr "this is another test"
+
+msgid "foo3"
+msgstr "I would like this to be a more decent paragraph"
+
+msgid "foo4"
+msgstr "Could you please help me with this?"
+
+msgid "foo5"
+msgstr "I would like you to assist me"
+
+msgid "foo6"
+msgstr "What is your name?"
+
+msgid "foo7"
+msgstr "What is your name & what is my name &amp; what is you surename?"
