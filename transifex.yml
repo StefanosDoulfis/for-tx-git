@@ -1,2 +1,7 @@
-filters:
-  - filter_type: dir
+git:
+  filters:
+    - filter_type: file
+    file_format: PO
+    source_file: test.po
+    source_language: en
+    translation_files_expression: 'Translations/<lang>/'
