@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: @lingui/cli\n"
 
 msgid "foo"
-msgstr ""
+msgstr "hello"
 
 msgid "foo2"
 msgstr "this is another test"
